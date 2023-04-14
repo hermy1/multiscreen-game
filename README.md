@@ -12,8 +12,8 @@
 
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
-- Spritelib.py has the classes for sprites
+Files
+- Spritelib
 - game_gui
 - imagehelper
 - nonblockingdelay
@@ -37,7 +37,7 @@ Tkinter
 -.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- clone and install missing lib
+- clone and run
 
 
 - Python - Language
