@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Falling Object Game Tkinter</h3>
+<h3 align="center">Class Project: Falling Object Game Tkinter</h3>
 
 <div align="center">
 
